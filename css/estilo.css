@@ -1,0 +1,130 @@
+#header{
+    width: 100%;
+    height: 40px;
+    background-color: red;
+    background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
+    border: 0.1rem solid white;
+    
+}
+.transparencia {
+     filter:alpha(opacity=50);
+     opacity: 0.5;
+     -moz-opacity:0.5;
+     -webkit-opacity:0.5;
+}
+
+
+#textoHeader{
+	text-align: center;
+	color: #fff;
+	margin: 0px;
+	padding: 0px;
+
+}
+#coluna1{
+	
+    float: left;
+    height: 316px;
+    margin: 15px;
+    width: 30%;
+    position: relative;
+
+}
+#coluna2{
+    
+    float: right;
+    height: 316px;
+    margin: 15px;
+    width: 30%;
+    position: relative;
+}
+button{
+    background-color: #FF0000;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3));
+    border: 0.1rem solid #FFFFFF;
+    height: 3.8rem;
+    margin: 1rem 0 0.1rem;
+    padding: 0 1.5rem;
+    text-align: center;
+    width: 100%;
+    
+}
+body{
+    background: red ;
+    background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.3));
+ 
+}
+.num-gen1{
+    background: url('../img/status/C1S1.png');
+    width: 83px;
+    height: 295px;
+    display: none;
+}
+.num-gen2{
+    background: url('../img/status/C1S2.png');
+    width: 83px;
+    height: 295px;
+    display: none;
+}
+.num-gen3{
+    background: url('../img/status/C1S3.png');
+    width: 83px;
+    height: 295px;
+    display: none;
+}
+.num-gen4{
+    background: url('../img/status/C1S4.png');
+    width: 83px;
+    height: 295px;
+    display: none;
+}
+.num-gen5{
+    background: url('../img/status/C1S5.png');
+    width: 83px;
+    height: 295px;
+    display: none;
+}
+.num-gen6{
+    background: url('../img/status/C1S6.png');
+    width: 83px;
+    height: 295px;
+    display: none;
+}
+
+
+.gen1{
+    background: url('../img/status/C2S1.png');
+    width: 83px;
+    height: 295px;
+    display: none;
+}
+.gen2{
+    background: url('../img/status/C2S2.png');
+    width: 83px;
+    height: 295px;
+    display: none;
+}
+.gen3{
+    background: url('../img/status/C2S3.png');
+    width: 83px;
+    height: 295px;
+    display: none;
+}
+.gen4{
+    background: url('../img/status/C2S4.png');
+    width: 83px;
+    height: 295px;
+    display: none;
+}
+.gen5{
+    background: url('../img/status/C2S5.png');
+    width: 83px;
+    height: 295px;
+    display: none;
+}
+.gen6{
+    background: url('../img/status/C2S6.png');
+    width: 83px;
+    height: 295px;
+    display: none;
+}
